@@ -1,1 +1,1 @@
-worker: sh hello
+worker: sh bin/hello
